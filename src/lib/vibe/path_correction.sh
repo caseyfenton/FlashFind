@@ -8,7 +8,7 @@ source "$DIR/../core/config.sh"; source "$DIR/../output/colors.sh"
 common_replacements=(
   "s|/user/|/Users/|g" "s|slash user/|/Users/|g"
   "s|/documents/|/Documents/|g" "s|tilde/|~/|g" "s|home/|~/|g"
-  "s| dot |.|g" "s| space | |g"
+  "s| dash |-|g" "s| hyphen |-|g" "s| dot |.|g" "s| space | |g"
 )
 
 correct_path() {
