@@ -1,0 +1,3 @@
+# FlashFind Test File
+This is a sample file for testing the content preview feature.
+It should show these first few lines in the preview.

@@ -1,0 +1,22 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Build files
+*.o
+*.so
+*.dylib
+*.a
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+.git-safe.git/
+.flashfind/
